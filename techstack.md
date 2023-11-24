@@ -78,7 +78,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dabhi99/ROR](https://github.com/dabhi99/ROR)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|84<br/>Tools used|11/22/23 <br/>Report generated|
+|84<br/>Tools used|11/24/23 <br/>Report generated|
 |------|------|
 </div>
 
